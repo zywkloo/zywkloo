@@ -1,6 +1,6 @@
 # I'm Yiwei Z
 
-![](https://github.com/zywkloo/myLeetCodePractice/raw/master/pics/2019Git.png)
+![](https://github.com/zywkloo/myLeetCodePractice/raw/master/pics/0.jpeg)
 
          I make 📱 mobile apps (SwiftUI / React Native) and 🌐 Website (React & Node.js) for a living.
 
