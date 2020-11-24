@@ -1,38 +1,25 @@
-# Hello there 👋
+# I'm Yiwei Z
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/zywkloo/myLeetCodePractice/raw/master/pics/2019Git.png)
 
-I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+I make 📱 iOS apps and 🌐 Website** for a living.
 
-* 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Senior Back End Engineer at Alibaba Group.
-* 🎓   Bachelor of Engineering in Computer Science and Engineering, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Math & Philosophy.
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 3.28 million PV / 0.84 million UV).
+* 👋   Interested in full stack. Recent focus on Recoil, and Java SE.
+* 🎓   Degrees: 
+  * Bachelor of Computer Science, Carleton University, Ottawa, Canada; 
+  * Bachelor of Engineering in Urban Planning, Peking University, Beijing, China.
+* 🌱   Carleton University Medal in Computer Science, 2020 Fall (GPA 11.55/12, Top 1).
+* 💻   With 3 years' game design lead and 5 years' wireframe prototyping experience in mobile gaming industry.
+* ✍🏻   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/).
 
 <details>
-  <summary>Some other achievements about me~e~e</summary>
+  <summary>Some stats about me</summary>
   <br>
 
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
-
 <p align="center">
-<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_MEM500_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
-<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
-<a href= "https://www.youracclaim.com/badges/b6257c8a-6906-4555-9951-3b92f8918052/public_url"><img src="https://github.com/halfrost/halfrost/blob/master/icons/WES.png" height="100" width="100"/></a>
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=halfrost&column=7" alt="halfrost's Github Trophy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zywkloo&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zywkloo&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=zywkloo&column=7" alt="Yiwei's Github Trophy" />
 </p>
 
 </details>
@@ -42,10 +29,9 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://wilddunk.com"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/yiwei-zhang-4aa93840/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://devpost.com/zywkloo"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
 
 <p  align="center">
@@ -133,17 +119,3 @@ I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐
 
 -->
 
-<!--
-**halfrost/halfrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
