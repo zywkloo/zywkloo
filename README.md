@@ -11,8 +11,8 @@
 * 🎓   Degrees: 
   * Bachelor of Science in Computer Science, Carleton University, Ottawa, Canada; 
   * Bachelor of Engineering in Urban Planning, Peking University, Beijing, China.
-* 🥇   Carleton University Medal in Computer Science, 2020 Fall (GPA 11.55/12, Top 1).
-* 🌱   CuHacking 2019 & 2020 Team Winners (InGenius / Martello Sponsor Awards).
+* 🥇   Carleton University Medal in Computer Science, 2020 Fall (GPA 11.52/12, Top 1).
+* 🌱   CuHacking 2019 & 2020 Team Winners ([InGenius / Martello Sponsor Awards](https://devpost.com/zywkloo)).
 * 💻   With 3 years' game design lead and 5 years' wireframe prototyping experience in mobile gaming industry.
 * ✍🏻   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/). Thank [halfrost](https://github.com/halfrost) for the AWESOME template!
 
