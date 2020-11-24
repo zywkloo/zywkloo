@@ -1,7 +1,5 @@
 # I'm Yiwei Z
 
-![](https://github.com/zywkloo/myLeetCodePractice/raw/master/pics/0.jpeg)
-
          I make 📱 mobile apps (SwiftUI / React Native) and 🌐 Website (React & Node.js) for a living.
 
 * 👋   Interested in full stack. Recent focus on Recoil, Node.js and Java SE.
