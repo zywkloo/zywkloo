@@ -1,7 +1,11 @@
 
          I make 📱 Mobile apps (SwiftUI / React Native) and 🌐 Website (React & Node.js) for a living.
 
-  ![](https://github.com/zywkloo/myLeetCodePractice/raw/master/pics/XchangeratorBanner.png)
+<p align="center">
+         <a href= "https://apps.apple.com/ca/app/xchangerator/id1501733877">
+         <img align="center" src="https://github.com/zywkloo/myLeetCodePractice/raw/master/pics/XchangeratorBanner.png" alt="Xchangerator" />
+         </a>
+</p>
 
 * 👋   Interested in full stack. Recent focus on Recoil, Node.js and Java SE.
 * 🎓   Degrees: 
