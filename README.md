@@ -1,6 +1,6 @@
 # I'm Yiwei Z
 
-         I make 📱 mobile apps (SwiftUI / React Native) and 🌐 Website (React & Node.js) for a living.
+         I make 📱 Mobile apps (SwiftUI / React Native) and 🌐 Website (React & Node.js) for a living.
 
 * 👋   Interested in full stack. Recent focus on Recoil, Node.js and Java SE.
 * 🎓   Degrees: 
