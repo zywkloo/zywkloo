@@ -11,8 +11,8 @@ I make 📱 iOS apps and 🌐 Website** for a living.
 * 🌱   Carleton University Medal in Computer Science, 2020 Fall (GPA 11.55/12, Top 1).
 * 💻   With 3 years' game design lead and 5 years' wireframe prototyping experience in mobile gaming industry.
 * ✍🏻   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/).
+* 🌐   Thank [halfrost](https://github.com/halfrost) for the AWESOME template!
 
-<details>
   <summary>Some stats about me</summary>
   <br>
 
@@ -22,7 +22,7 @@ I make 📱 iOS apps and 🌐 Website** for a living.
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=zywkloo&column=7" alt="Yiwei's Github Trophy" />
 </p>
 
-</details>
+
   
 <hr>
 <p align="center">
@@ -116,6 +116,4 @@ I make 📱 iOS apps and 🌐 Website** for a living.
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
   </a>
 </p>
-
--->
 
