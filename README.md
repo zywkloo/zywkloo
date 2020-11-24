@@ -1,10 +1,13 @@
 # I'm Yiwei Z
 
+
          I make 📱 Mobile apps (SwiftUI / React Native) and 🌐 Website (React & Node.js) for a living.
+
+  ![](https://github.com/zywkloo/myLeetCodePractice/raw/master/pics/XchangeratorBanner.png)
 
 * 👋   Interested in full stack. Recent focus on Recoil, Node.js and Java SE.
 * 🎓   Degrees: 
-  * Bachelor of Computer Science, Carleton University, Ottawa, Canada; 
+  * Bachelor of Science in Computer Science, Carleton University, Ottawa, Canada; 
   * Bachelor of Engineering in Urban Planning, Peking University, Beijing, China.
 * 🥇   Carleton University Medal in Computer Science, 2020 Fall (GPA 11.55/12, Top 1).
 * 🌱   CuHacking 2019 & 2020 Team Winners (InGenius / Martello Sponsor Awards).
