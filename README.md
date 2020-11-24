@@ -4,7 +4,7 @@
 
 I make 📱 iOS apps and 🌐 Website** for a living.
 
-* 👋   Interested in full stack. Recent focus on Recoil, and Java SE.
+* 👋   Interested in full stack. Recent focus on Recoil, Node.js and Java SE.
 * 🎓   Degrees: 
   * Bachelor of Computer Science, Carleton University, Ottawa, Canada; 
   * Bachelor of Engineering in Urban Planning, Peking University, Beijing, China.
@@ -35,8 +35,8 @@ I make 📱 iOS apps and 🌐 Website** for a living.
 </p>
 
 <p  align="center">
-<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=zywloo.zywkloo" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zywloo.zywloo" alt="visitor badge"/>       
 </p>
 
 </p>
