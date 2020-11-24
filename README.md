@@ -11,8 +11,7 @@
 * 🥇   Carleton University Medal in Computer Science, 2020 Fall (GPA 11.55/12, Top 1).
 * 🌱   CuHacking 2019 & 2020 Team Winners (InGenius / Martello Sponsor Awards).
 * 💻   With 3 years' game design lead and 5 years' wireframe prototyping experience in mobile gaming industry.
-* ✍🏻   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/).
-* 🌐   Thank [halfrost](https://github.com/halfrost) for the AWESOME template!
+* ✍🏻   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/). Thank [halfrost](https://github.com/halfrost) for the AWESOME template!
 
 <details>
   <summary> Stats About Me </summary>
