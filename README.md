@@ -2,22 +2,21 @@
 
 ![](https://github.com/zywkloo/myLeetCodePractice/raw/master/pics/2019Git.png)
 
-I make 📱 iOS apps and 🌐 Website** for a living.
+         I make 📱 mobile apps (SwiftUI / React Native) and 🌐 Website (React & Node.js) for a living.
 
 * 👋   Interested in full stack. Recent focus on Recoil, Node.js and Java SE.
 * 🎓   Degrees: 
   * Bachelor of Computer Science, Carleton University, Ottawa, Canada; 
   * Bachelor of Engineering in Urban Planning, Peking University, Beijing, China.
-* 🌱   Carleton University Medal in Computer Science, 2020 Fall (GPA 11.55/12, Top 1).
+* 🥇   Carleton University Medal in Computer Science, 2020 Fall (GPA 11.55/12, Top 1).
+* 🌱   CuHacking 2019 & 2020 Team Winners (InGenius / Martello Sponsor Awards).
 * 💻   With 3 years' game design lead and 5 years' wireframe prototyping experience in mobile gaming industry.
 * ✍🏻   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/).
 * 🌐   Thank [halfrost](https://github.com/halfrost) for the AWESOME template!
 
-  <summary>Some stats about me</summary>
+  ## Stats About Me
   <br>
-
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zywkloo&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zywkloo&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=zywkloo&column=7" alt="Yiwei's Github Trophy" />
 </p>
@@ -26,7 +25,13 @@ I make 📱 iOS apps and 🌐 Website** for a living.
   
 <hr>
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+    <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+  </a>
+  <i>These are my repositories below:</i>
+      <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  </a>
 
 <p align="center">
 <a href= "https://wilddunk.com"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
@@ -35,9 +40,11 @@ I make 📱 iOS apps and 🌐 Website** for a living.
 </p>
 
 <p  align="center">
+
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=zywloo.zywkloo" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=zywloo.zywloo" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zywloo.zywloo" alt="visitor badge"/>      
 </p>
+
 
 </p>
 
@@ -50,6 +57,8 @@ I make 📱 iOS apps and 🌐 Website** for a living.
   <samp>
   </samp>
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zywkloo&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
