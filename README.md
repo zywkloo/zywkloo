@@ -1,5 +1,3 @@
-# I'm Yiwei Z
-
 
          I make 📱 Mobile apps (SwiftUI / React Native) and 🌐 Website (React & Node.js) for a living.
 
