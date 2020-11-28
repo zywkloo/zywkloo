@@ -8,16 +8,30 @@
 </p>
 
 * 👋   Interested in full stack. Recent focus on Recoil, Node.js and Java SE.
-* 🎓   Degrees: 
-  * Bachelor of Science in Computer Science, Carleton University, Ottawa, Canada; 
-  * Bachelor of Engineering in Urban Planning, Peking University, Beijing, China.
-* 🥇   Carleton [University Medal](https://carleton.ca/convocation/medals-awards-fall-2020/) in Computer Science, 2020 Fall (GPA 11.52/12, Top 1).
 * 🌱   CuHacking 2019 & 2020 Team Winners ([InGenius / Martello Sponsor Awards](https://devpost.com/zywkloo)).
 * 💻   With 3 years' game design lead and 5 years' wireframe prototyping experience in mobile gaming industry.
-* ✍🏻   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/). Thank [halfrost](https://github.com/halfrost) for the AWESOME template!
+* ⌨️   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/). Thank [halfrost](https://github.com/halfrost) for the AWESOME template!
+<details>
+  <summary> 🎓 Degrees </summary>
+          
+* 🏙️   Bachelor of Science in Computer Science, Carleton University, Ottawa, Canada; 
+* 🍁   Bachelor of Engineering in Urban Planning, Peking University, Beijing, China.
+* 🥇   Carleton [University Medal](https://carleton.ca/convocation/medals-awards-fall-2020/) in Computer Science, 2020 Fall (GPA 11.52/12, Top 1).
+
+</details>
 
 <details>
-  <summary> Stats About Me </summary>
+  <summary> ✍🏻  Recent Posts </summary>
+  <br>
+          
+* 💾      [Lessons Taught w/ React-Part 1:Improve Performance](https://wilddunk.com/ReactDevTips/)
+* 💾      [React-Native-Meteor: FB/Google Login & OAuth](https://wilddunk.com/React-Native-Meteor-SocialLogin/)
+* 💾      [Board Game A.I.: from Deep Blue to Alpha Go](https://wilddunk.com/BoardGameAIDevelopment/)
+
+</details>
+
+<details>
+  <summary> 🏛️  Stats About Me </summary>
   <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zywkloo&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Yw's Github Stats" />
