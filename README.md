@@ -12,16 +12,16 @@
 * 💻   With 3 years' game design lead and 5 years' wireframe prototyping experience in mobile gaming industry.
 * ⌨️   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/). Thank [halfrost](https://github.com/halfrost) for the AWESOME template!
 <details>
-  <summary> 🎓 Degrees </summary>
+  <summary> 🎓      Degrees </summary>
           
-* 🏙️   Bachelor of Science in Computer Science, Carleton University, Ottawa, Canada; 
-* 🍁   Bachelor of Engineering in Urban Planning, Peking University, Beijing, China.
+* 🍁   Bachelor of Science in Computer Science, Carleton University, Ottawa, Canada; 
+* 🏙️   Bachelor of Engineering in Urban Planning, Peking University, Beijing, China;
 * 🥇   Carleton [University Medal](https://carleton.ca/convocation/medals-awards-fall-2020/) in Computer Science, 2020 Fall (GPA 11.52/12, Top 1).
 
 </details>
 
 <details>
-  <summary> ✍🏻  Recent Posts </summary>
+  <summary> ✍🏻     Recent Posts </summary>
   <br>
           
 * 💾      [Lessons Taught w/ React-Part 1:Improve Performance](https://wilddunk.com/ReactDevTips/)
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary> 🏛️  Stats About Me </summary>
+  <summary> 🏛️     Stats About Me </summary>
   <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zywkloo&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Yw's Github Stats" />
