@@ -24,9 +24,9 @@
   <summary> ✍🏻     Recent Posts </summary>
   <br>
           
-* 💾      [Lessons Taught w/ React-Part 1:Improve Performance](https://wilddunk.com/ReactDevTips/)
-* 💾      [React-Native-Meteor: FB/Google Login & OAuth](https://wilddunk.com/React-Native-Meteor-SocialLogin/)
-* 💾      [Board Game A.I.: from Deep Blue to Alpha Go](https://wilddunk.com/BoardGameAIDevelopment/)
+* ⚛️    [Lessons Taught w/ React-Part 1:Improve Performance](https://wilddunk.com/ReactDevTips/)
+* ⚛️    [React-Native-Meteor: FB/Google Login & OAuth](https://wilddunk.com/React-Native-Meteor-SocialLogin/)
+* 🎲    [Board Game A.I.: from Deep Blue to Alpha Go](https://wilddunk.com/BoardGameAIDevelopment/)
 
 </details>
 
