@@ -24,7 +24,7 @@
   <summary> ✍🏻     Recent Posts </summary>
   <br>
           
-* ⚛️    [Lessons Taught w/ React-Part 1:Improve Performance](https://zywkloo.medium.com/lessons-learned-to-improve-react-performance-b722c9b992e6)
+* ⚛️    [3 Lessons Taught w/ React-Part 1:State Updates](https://zywkloo.medium.com/lessons-learned-to-improve-react-performance-b722c9b992e6)
 * ⚛️    [React-Native-Meteor: FB/Google Login & OAuth](https://wilddunk.com/React-Native-Meteor-SocialLogin/)
 * 🎲    [Board Game A.I.: from Deep Blue to Alpha Go](https://zywkloo.medium.com/board-game-a-i-from-deep-blue-to-alpha-go-4dffb5276064)
 
