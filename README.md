@@ -7,9 +7,9 @@
          </a>
 </p>
 
-* 👋   Interested in full stack. Recent focus on Recoil, Node.js and Java SE.
+* 👋   I'm a full stack dev. Recent focus on Recoil, Node.js and Java.
 * 🌱   CuHacking 2019 & 2020 Team Winners ([InGenius / Martello Sponsor Awards](https://devpost.com/zywkloo)).
-* 💻   2 years' full stack dev, 3 years' game design lead and 5 years' UX wireframing in mobile gaming industry.
+* 💻   2 yrs' full stack dev; 3 yrs' game design lead and 5 yrs' UX wireframing in mobile gaming industry.
 * ⌨️   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/). Thank [halfrost](https://github.com/halfrost) for the AWESOME template!
 <details>
   <summary> 🎓      Degrees </summary>
