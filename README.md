@@ -9,7 +9,7 @@
 
 * 👋   Interested in full stack. Recent focus on Recoil, Node.js and Java SE.
 * 🌱   CuHacking 2019 & 2020 Team Winners ([InGenius / Martello Sponsor Awards](https://devpost.com/zywkloo)).
-* 💻   With 3 years' game design lead and 5 years' wireframe prototyping experience in mobile gaming industry.
+* 💻   2 years' full stack dev, 3 years' game design lead and 5 years' UX wireframing in mobile gaming industry.
 * ⌨️   Personal Tech thoughts in my [Personal Blog](https://wilddunk.com/). Thank [halfrost](https://github.com/halfrost) for the AWESOME template!
 <details>
   <summary> 🎓      Degrees </summary>
