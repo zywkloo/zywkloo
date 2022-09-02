@@ -2,7 +2,7 @@
           I make 📱 Mobile Apps (SwiftUI / React Native) and 🌐 Website (React & Node.js) for a living.
 
 <p align="center">
-         <a href= "https://apps.apple.com/ca/app/xchangerator/id1501733877">
+         <a href= "https://github.com/zywkloo/Xchangerator">
          <img align="center" src="https://github.com/zywkloo/myLeetCodePractice/raw/master/pics/XchangeratorBanner.png" alt="Xchangerator" />
          </a>
 </p>
