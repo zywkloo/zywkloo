@@ -1,5 +1,5 @@
 
-          I make 📱 Mobile Apps (SwiftUI / React Native) and 🌐 Website (React & Node.js) for a living.
+          I make 📱 Mobile Apps (SwiftUI / React Native) and 🌐 Websites (React & Node.js) for a living.
 
 <p align="center">
          <a href= "https://github.com/zywkloo/Xchangerator">
