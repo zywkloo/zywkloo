@@ -17,7 +17,7 @@
 * 📖   Master of Data Science Candidate‘ 24, UBC, Vancouver, Canada;
 * 🍁   Bachelor of Science in Computer Science, Carleton University, Ottawa, Canada; 
 * 🏙️   Bachelor of Engineering in Urban Planning, Peking University, Beijing, China;
-* 🥇   Carleton University Medal in Computer Science, 2020 Fall (GPA 11.52/12, Top 1).
+* 🥇   Carleton University Medal in Computer Science, 2020 Fall.
 
 </details>
 
