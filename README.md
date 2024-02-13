@@ -2,8 +2,8 @@
           I make 📱 Mobile Apps (SwiftUI / React Native) and 🌐 Websites (React & Node.js) for a living.
 
 <p align="center">
-         <a href= "https://github.com/zywkloo/Xchangerator">
-         <img align="center" src="https://github.com/zywkloo/myLeetCodePractice/raw/master/pics/XchangeratorBanner.png" alt="Xchangerator" />
+         <a href= "https://github.com/ZZZ-RecSys/ZZZ-MovieSearch-Client">
+         <img align="center" src="https://github.com/ZZZ-RecSys/ZZZ-MovieSearch-Client/assets/18610590/211c3c31-7c9e-47b9-81ef-5210c4f1ed73" alt="Xchangerator" />
          </a>
 </p>
 
