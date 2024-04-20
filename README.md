@@ -10,10 +10,11 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and Websites (Reac
 
 ## About Me
 
-- 🌱 **Recent Achievements**: CuHacking 2019 & 2020 Team Winners. [Check it out!](https://devpost.com/zywkloo)
-- 💻 **Experience**: 2 years in mobile development, 3 years in full-stack development.
-- 🎮 **Gaming Industry**: 3 years as gameplay design lead, 5 years in UX wireframing.
-- ⌨️ **Blogging**: Read my thoughts on tech in my [Personal Blog](https://zywkloo.github.io/). Thanks to [halfrost](https://github.com/halfrost) for the template!
+- 🌱 **Hackathons**: CuHacking 2019 & 2020 Team Winners ([InGenius / Martello Sponsor Awards](https://devpost.com/zywkloo)).
+- 💻 **Development**: 2 years in mobile development, 3 years in full-stack development.
+- 🎮 **Game Design**: Led the designer team for Wild Dunk, achieving No.1 in Sports Games and No.9 in Games in China on [May 3, 2015](https://www.linkedin.com/in/yiweiz315/overlay/experience/793181145/multiple-media-viewer/?profileId=ACoAAAiuV8IBlPS-3MR67sLJM3hfVdSAEgwG3ZY&treasuryMediaId=1605155219338).
+- ⌨️ **Blogging**: Read my tech thoughts on my [Personal Blog](https://zywkloo.github.io/).
+- 📺 **Streaming**: Live Coding Streamer on [twitch.tv/zywkloo](https://www.twitch.tv/zywkloo), streaming LeetCode contests weekly and gaming.
 
 <details>
   <summary>🎓 Degrees</summary>
@@ -60,6 +61,10 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and Websites (Reac
   <!-- Medium -->
   <a href="https://zywkloo.medium.com/">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+    <!-- Twitch -->
+  <a href="https://www.twitch.tv/zywkloo">
+    <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
 </p>
 <hr>
