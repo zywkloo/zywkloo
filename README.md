@@ -1,4 +1,4 @@
-# I'm Victor(Yiwei) Zhang, a Full Stack Developer! 👋
+# I'm Victor, a Full Stack Developer! 👋
 
 I specialize in creating Mobile Apps (SwiftUI / React Native) and Websites (React & Node.js).
 
