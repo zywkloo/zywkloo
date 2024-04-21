@@ -12,7 +12,7 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and Websites (Reac
 
 - 🌱 **Hackathons**: CuHacking 2019 & 2020 Team Winners ([InGenius / Martello Sponsor Awards](https://devpost.com/zywkloo)).
 - 💻 **Development**: 2 years in mobile development, 3 years in full-stack development.
-- 🎮 **Game Design**: Led the designer team for Wild Dunk, achieving No.1 in Sports Games and No.9 in Games in China on [May 3, 2015](https://www.linkedin.com/in/yiweiz315/overlay/experience/793181145/multiple-media-viewer/?profileId=ACoAAAiuV8IBlPS-3MR67sLJM3hfVdSAEgwG3ZY&treasuryMediaId=1605155219338).
+- 🎮 **Game Design**: As the design lead, achieving No.1 in Sports and No.9 in Games in China App Store on [May 3, 2015](https://www.linkedin.com/in/yiweiz315/overlay/experience/793181145/multiple-media-viewer/?profileId=ACoAAAiuV8IBlPS-3MR67sLJM3hfVdSAEgwG3ZY&treasuryMediaId=1605155219338).
 - ⌨️ **Blogging**: Read my tech thoughts on my [Personal Blog](https://zywkloo.github.io/).
 - 📺 **Streaming**: Live Coding Streamer on [twitch.tv/zywkloo](https://www.twitch.tv/zywkloo), streaming LeetCode contests weekly and gaming.
 
