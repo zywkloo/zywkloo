@@ -4,7 +4,7 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and Websites (Reac
 
 <p align="center">
   <a href="https://github.com/ZZZ-RecSys/ZZZ-MovieRecSystem">
-    <img src="https://github.com/ZZZ-RecSys/ZZZ-MovieSearch-Client/assets/18610590/211c3c31-7c9e-47b9-81ef-5210c4f1ed73" alt="Xchangerator" />
+    <img width="2272" height="2982" alt="zzz-movie-rec-system vercel app_ (1)" src="https://github.com/user-attachments/assets/63d6a6b6-ca4b-444f-a8c5-fbf9b2810ac7" />
   </a>
 </p>
 
