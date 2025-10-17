@@ -3,7 +3,7 @@
 I specialize in creating Mobile Apps (SwiftUI / React Native) and Websites (React & Node.js).
 
 <p align="center">
-  <a href="https://github.com/ZZZ-RecSys/ZZZ-MovieSearch-Client">
+  <a href="https://github.com/ZZZ-RecSys/ZZZ-MovieRecSystem">
     <img src="https://github.com/ZZZ-RecSys/ZZZ-MovieSearch-Client/assets/18610590/211c3c31-7c9e-47b9-81ef-5210c4f1ed73" alt="Xchangerator" />
   </a>
 </p>
