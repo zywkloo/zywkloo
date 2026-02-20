@@ -34,14 +34,14 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines
   - 🎲 [Board Game A.I.: from Deep Blue to Alpha Go](https://zywkloo.medium.com/board-game-a-i-from-deep-blue-to-alpha-go-4dffb5276064)
 </details>
 
-<details>
+<!-- <details>
   <summary> 🏛️ Stats About Me </summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zywkloo&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Yw's Github Stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=zywkloo&column=7" alt="Yiwei's Github Trophy" />
 </p>
-</details>
+</details> -->
 
 ## Connect with Me
 
