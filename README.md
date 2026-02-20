@@ -2,15 +2,15 @@
 
 I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines from dashboard to Cloud (React.js，FastAPI & Node.js).
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ZZZ-RecSys/ZZZ-MovieRecSystem">
     <img width="2272" height="1100" alt="zzz-movie-rec-system vercel app_ (1)" src="https://github.com/user-attachments/assets/63d6a6b6-ca4b-444f-a8c5-fbf9b2810ac7" />
   </a>
-</p>
+</p> -->
 
 ## About Me
 
-- 💻 **Development**: 4 years in mobile development, 5 years in full-stack development.
+- 💻 **Development**: 6 years in mobile development, 4 years in full-stack data processing.
 - 🎮 **Game Design**: As the design lead, achieving No.1 in Sports and No.9 in Games in China's App Store on [May 3, 2015](https://www.linkedin.com/in/yiweiz315/overlay/1605156128130/single-media-viewer?profileId=ACoAAAiuV8IBlPS-3MR67sLJM3hfVdSAEgwG3ZY).
 - 🌱 **Hackathons**: Team lead of CuHacking 2019 & 2020 winners ([InGenius / Martello Sponsor Awards](https://devpost.com/zywkloo)).
 - ⌨️ **Blogging**: Read my tech thoughts on my [Personal Blog](https://zywkloo.github.io/).
