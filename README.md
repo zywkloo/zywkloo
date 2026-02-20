@@ -1,4 +1,4 @@
-# I'm Victor, a Mobile - E2E Full Stack Developer! 👋
+# I'm Victor, a Mobile Systems Engineer | Devices, Cloud & ML Pipelines 👋
 
 I specialize in creating Mobile Apps (SwiftUI / React Native) and Websites (React & Node.js).
 
