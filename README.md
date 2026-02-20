@@ -1,4 +1,4 @@
-# I'm Victor, a Mobile Systems Engineer | Devices, Cloud & Data Pipelines 👋
+# I'm Victor, a Mobile Engineer | Devices, Cloud & Data Pipelines 👋
 
 I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines from dashboard to Cloud (React.js，FastAPI & Node.js).
 
