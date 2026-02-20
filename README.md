@@ -1,6 +1,6 @@
 # I'm Victor, a Mobile Systems Engineer | Devices, Cloud & ML Pipelines 👋
 
-I specialize in creating Mobile Apps (SwiftUI / React Native) and Websites (React & Node.js).
+I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines from dashboard to Cloud (React.js，FastAPI & Node.js).
 
 <p align="center">
   <a href="https://github.com/ZZZ-RecSys/ZZZ-MovieRecSystem">
