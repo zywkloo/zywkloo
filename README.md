@@ -2,6 +2,18 @@
 
 I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines from dashboard to Cloud (React.js，FastAPI & Node.js).
 
+## Featured Project
+
+### [EDFViewerLite-MacOS](https://github.com/zywkloo/EDFViewerLite-MacOS)
+
+Native macOS biomedical waveform viewer built in SwiftUI for EDF/BDF files, highlighting Apple-native engineering, healthcare tooling, and high-volume signal data processing.
+
+<p align="center">
+  <a href="https://github.com/zywkloo/EDFViewerLite-MacOS">
+    <img src="https://raw.githubusercontent.com/zywkloo/EDFViewerLite-MacOS/main/docs/images/app-main.png" alt="EDFViewerLite macOS app preview" width="900" />
+  </a>
+</p>
+
 <!-- <p align="center">
   <a href="https://github.com/ZZZ-RecSys/ZZZ-MovieRecSystem">
     <img width="2272" height="1100" alt="zzz-movie-rec-system vercel app_ (1)" src="https://github.com/user-attachments/assets/63d6a6b6-ca4b-444f-a8c5-fbf9b2810ac7" />
@@ -28,6 +40,7 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines
 <details>
   <summary>✍🏻 Recent Posts</summary>
   
+  - 🛠️ [Worktree Refactor Playbook](https://zywkloo.github.io/blog/worktree-refactor-playbook/)
   - 🏙️ [Choosing the Right JavaScript Data Visualization Framework: Insights and Comparisons](https://zywkloo.medium.com/choosing-the-right-javascript-data-visualization-framework-insights-and-comparisons-6325b8d66969)
   - ⚛️ [3 Lessons Taught w/ React-Part 1:State Updates](https://zywkloo.medium.com/lessons-learned-to-improve-react-performance-b722c9b992e6)
   - ⚛️ [React-Native-Meteor: FB/Google Login & OAuth](https://zywkloo.github.io/React-Native-Meteor-SocialLogin/)
