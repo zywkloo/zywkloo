@@ -2,6 +2,9 @@
 
 I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines from dashboard to Cloud (React.js，FastAPI & Node.js).
 
+>  *"Whatever you do, work at it with all your heart, as working for the LORD, not for human masters."*
+— Colossians 3:23
+
 ## Featured Project
 
 ### [EDFViewerLite-MacOS](https://github.com/zywkloo/EDFViewerLite-MacOS)
