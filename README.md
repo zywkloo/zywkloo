@@ -1,4 +1,4 @@
-# I'm Victor｜Mobile Engineer | Frome Devices to Cloud Pipelines 👋
+# Victor ｜ Mobile Engineer | Build Pipelines from Devices to Cloud👋
 
 I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines from dashboard to Cloud (React.js，FastAPI & Node.js).
 
