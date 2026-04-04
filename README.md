@@ -18,7 +18,7 @@ Apple-native healthcare engineering and data-focused product design:
     </td>
     <td align="center">
       <a href="https://yourlens.vercel.app/">
-        <img src="https://yourlens.vercel.app/opengraph-image?35ebf33a362c91cd" alt="Wealth Lens product preview" height="280" />
+        <img src="assets/wealth-lens-preview.png" alt="Wealth Lens product preview" height="280" />
       </a>
     </td>
   </tr>
