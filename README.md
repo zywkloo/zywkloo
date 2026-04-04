@@ -7,97 +7,31 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines
 
 ## Featured Project
 
-- [**EDFViewerLite-MacOS**](https://github.com/zywkloo/EDFViewerLite-MacOS): Native SwiftUI EDF/BDF biomedical waveform viewer focused on Apple-native healthcare tooling.
-- [**Wealth Lens**](https://yourlens.vercel.app/): Non-trading investor intelligence layer focused on behavioral clarity and risk context.
+- [**EDFViewerLite-MacOS**](https://github.com/zywkloo/EDFViewerLite-MacOS): A native macOS app built with SwiftUI to open and inspect EDF/BDF biomedical signals with a pure Swift parser.
+- [**Wealth Lens**](https://yourlens.vercel.app/): A non-trading intelligence layer that explains portfolio context, behavior patterns, and risk posture without buy/sell instructions.
 
-<p align="center">
-  <a href="https://github.com/zywkloo/EDFViewerLite-MacOS">
-    <img src="assets/EDFViewer-preview.png" alt="EDFViewerLite macOS app preview" width="1100" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://yourlens.vercel.app/">
-    <img src="assets/wealth-lens-preview.png" alt="Wealth Lens product preview" width="1100" />
-  </a>
-</p>
-
-### Wealth Lens
-
-**Wealth Lens - Better spot your patterns before you invest**
-
-Wealth Lens is a non-trading intelligence layer for investors. It focuses on context and behavioral clarity, not buy/sell instructions.
-
-#### Product Tone
-
-- Observational, non-predictive, non-advisory.
-- AI explains context, patterns, and risk posture.
-- Users own every execution and allocation decision.
-
-#### Architecture (Web + iOS)
-
-- `web/`: Next.js 14 app (App Router), the primary product surface.
-- `ios/WealthIntelligenceDemo/`: SwiftUI prototype aligned to the same product principles.
-- `dataset/`: mock CSV data for behavior and scenario simulation.
-- `docs/`: product and implementation documentation.
-- `policy_v1.json`: policy thresholds and disclaimers used by the insight layer.
-
-#### Core Product Experience
-
-- Portfolio composition, allocation, and net-worth context.
-- Behavioral pattern detection (early-add tendency, concentration pressure, trade-window clustering).
-- Insight Lens explanations with beginner/pro depth.
-- Live quote context via `/api/quotes`.
-
-#### Local Development
-
-**Prerequisites**
-
-- Node.js 18+
-- `pnpm`
-- Xcode 15+
-- `xcodegen` (for iOS project generation)
-
-**Run Web**
-
-```bash
-pnpm install
-pnpm dev:web
-```
-
-**Build Web**
-
-```bash
-pnpm build:web
-```
-
-**Run iOS Prototype**
-
-```bash
-xcodegen generate --spec project.yml --project ios --project-root .
-open ios/WealthIntelligenceDemo.xcodeproj
-```
-
-#### Deployment
-
-**Web (Vercel)**
-
-- Deploy the Next.js app in `web/`.
-- Build command: `pnpm --filter wealth-intelligence-web build` (or root script `pnpm build:web`).
-- Route runtime follows Next.js route config (including edge/server behavior per route).
-- `vercel.json` currently uses default platform behavior.
-
-**iOS**
-
-- Current flow is manual release from Xcode (`Archive -> Export/TestFlight/App Store`).
-- No mobile CI/CD pipeline is configured in this repository yet.
-
-#### Principles
-
-- Behavior mirror, not recommendation.
-- Clarity before action.
-- Confidence-aware insights.
-- Policy-versioned guardrails.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zywkloo/EDFViewerLite-MacOS">
+        <img src="assets/EDFViewer-preview.png" alt="EDFViewerLite macOS app preview" height="280" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://yourlens.vercel.app/">
+        <img src="assets/wealth-lens-preview.png" alt="Wealth Lens product preview" height="280" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zywkloo/EDFViewerLite-MacOS"><strong>EDFViewerLite-MacOS</strong></a>
+    </td>
+    <td align="center">
+      <a href="https://yourlens.vercel.app/"><strong>Wealth Lens</strong></a>
+    </td>
+  </tr>
+</table>
 
 <!-- <p align="center">
   <a href="https://github.com/ZZZ-RecSys/ZZZ-MovieRecSystem">
