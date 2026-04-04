@@ -7,8 +7,8 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines
 
 ## Featured Project
 
-- [**EDFViewerLite-MacOS**](https://github.com/zywkloo/EDFViewerLite-MacOS): A native macOS app built with SwiftUI to open and inspect EDF/BDF biomedical signals with a pure Swift parser.
-- [**Wealth Lens**](https://yourlens.vercel.app/): A non-trading intelligence layer that explains portfolio context, behavior patterns, and risk posture without buy/sell instructions.
+- [**Wealth Lens**](https://yourlens.vercel.app/): A web-based risk engine for investors that helps users understand Behavior x Market Context before making the next move. Inspired by my family, it supports beginner investors with clearer options literacy and risk awareness.
+- [**EDFViewerLite-MacOS**](https://github.com/zywkloo/EDFViewerLite-MacOS): An open-source, native macOS app built with SwiftUI to open and inspect EDF/BDF biomedical signals. It fills a clear market gap for a truly native Mac EDF inspector.
 
 <table>
   <tr>
