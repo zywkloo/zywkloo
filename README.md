@@ -7,15 +7,32 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines
 
 ## Featured Project
 
-### [EDFViewerLite-MacOS](https://github.com/zywkloo/EDFViewerLite-MacOS)
+Apple-native healthcare engineering and data-focused product design:
 
-Native macOS biomedical waveform viewer built in SwiftUI for EDF/BDF files, highlighting Apple-native engineering, healthcare tooling, and high-volume signal data processing.
-
-<p align="center">
-  <a href="https://github.com/zywkloo/EDFViewerLite-MacOS">
-    <img src="https://raw.githubusercontent.com/zywkloo/EDFViewerLite-MacOS/main/docs/images/app-main.png" alt="EDFViewerLite macOS app preview" width="900" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zywkloo/EDFViewerLite-MacOS">
+        <img src="https://raw.githubusercontent.com/zywkloo/EDFViewerLite-MacOS/main/docs/images/app-main.png" alt="EDFViewerLite macOS app preview" height="280" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://yourlens.vercel.app/">
+        <img src="https://yourlens.vercel.app/opengraph-image?35ebf33a362c91cd" alt="Wealth Lens product preview" height="280" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zywkloo/EDFViewerLite-MacOS"><strong>EDFViewerLite-MacOS</strong></a><br/>
+      Native SwiftUI EDF/BDF biomedical waveform viewer.
+    </td>
+    <td align="center">
+      <a href="https://yourlens.vercel.app/"><strong>Wealth Lens</strong></a><br/>
+      Behavior-first portfolio analytics and decision support.
+    </td>
+  </tr>
+</table>
 
 <!-- <p align="center">
   <a href="https://github.com/ZZZ-RecSys/ZZZ-MovieRecSystem">
