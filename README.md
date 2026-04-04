@@ -13,7 +13,7 @@ Apple-native healthcare engineering and data-focused product design:
   <tr>
     <td align="center">
       <a href="https://github.com/zywkloo/EDFViewerLite-MacOS">
-        <img src="https://raw.githubusercontent.com/zywkloo/EDFViewerLite-MacOS/main/docs/images/app-main.png" alt="EDFViewerLite macOS app preview" height="280" />
+        <img src="assets/EDFViewer-preview.png" alt="EDFViewerLite macOS app preview" height="280" />
       </a>
     </td>
     <td align="center">
