@@ -5,30 +5,42 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines
 >  *"Whatever you do, work at it with all your heart, as working for the LORD, not for human masters."*
 — Colossians 3:23
 
-## Featured Project
+## Featured Projects
 
+- [**wtcraft**](https://github.com/zywkloo/wtcraft): A lightweight, git-native CLI harness for solo developers doing multi-agent AI coding. Defines task contracts (Scope, Off-limits, Verification) so Claude, Codex, and other agents stay in their lanes. `npx wtcraft init`
 - [**Wealth Lens**](https://yourlens.vercel.app/): A web-based risk engine for investors that helps users understand Behavior x Market Context before making the next move. Inspired by my family, it supports beginner investors with clearer options literacy and risk awareness.
 - [**EDFViewerLite-MacOS**](https://github.com/zywkloo/EDFViewerLite-MacOS): An open-source, native macOS app built with SwiftUI to open and inspect EDF/BDF biomedical signals. It fills a clear market gap for a truly native Mac EDF inspector.
 
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/zywkloo/wtcraft">
+        <img src="assets/wtcraft-icon.PNG" alt="wtcraft — multi-agent coding harness" height="200" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zywkloo/EDFViewerLite-MacOS">
-        <img src="assets/EDFViewer-preview.png" alt="EDFViewerLite macOS app preview" height="280" />
+        <img src="assets/EDFViewer-preview.png" alt="EDFViewerLite macOS app preview" height="200" />
       </a>
     </td>
     <td align="center">
       <a href="https://yourlens.vercel.app/">
-        <img src="assets/wealth-lens-preview.png" alt="Wealth Lens product preview" height="280" />
+        <img src="assets/wealth-lens-preview.png" alt="Wealth Lens product preview" height="200" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/zywkloo/EDFViewerLite-MacOS"><strong>EDFViewerLite-MacOS</strong></a>
+      <a href="https://github.com/zywkloo/wtcraft"><strong>wtcraft</strong></a><br/>
+      <sub>Multi-agent coding harness · CLI</sub>
     </td>
     <td align="center">
-      <a href="https://yourlens.vercel.app/"><strong>Wealth Lens</strong></a>
+      <a href="https://github.com/zywkloo/EDFViewerLite-MacOS"><strong>EDFViewerLite-MacOS</strong></a><br/>
+      <sub>Native macOS EDF signal viewer · SwiftUI</sub>
+    </td>
+    <td align="center">
+      <a href="https://yourlens.vercel.app/"><strong>Wealth Lens</strong></a><br/>
+      <sub>Investor risk engine · Web</sub>
     </td>
   </tr>
 </table>
@@ -59,6 +71,7 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines
 <details>
   <summary>✍🏻 Recent Posts</summary>
   
+  - 🤖 [Worktree Craft: A Budget-Aware Multi-Agent Coding Harness for Solo Developers](https://zywkloo.github.io/blog/beyond-worktrees-budget-aware-multi-agent-coding-harness/)
   - 🛠️ [Worktree Refactor Playbook](https://zywkloo.github.io/blog/worktree-refactor-playbook/)
   - 🏙️ [Choosing the Right JavaScript Data Visualization Framework: Insights and Comparisons](https://zywkloo.medium.com/choosing-the-right-javascript-data-visualization-framework-insights-and-comparisons-6325b8d66969)
   - ⚛️ [3 Lessons Taught w/ React-Part 1:State Updates](https://zywkloo.medium.com/lessons-learned-to-improve-react-performance-b722c9b992e6)
