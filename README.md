@@ -7,7 +7,7 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines
 
 ## Featured Projects
 
-- [**wtcraft**](https://github.com/zywkloo/wtcraft): A lightweight, git-native CLI harness for solo developers doing multi-agent AI coding. Defines task contracts (Scope, Off-limits, Verification) so Claude, Codex, and other agents stay in their lanes. `npx wtcraft init`
+- [**wtcraft**](https://github.com/zywkloo/wtcraft): A lightweight, git-native governance core for AI coding agents. Defines task contracts (Scope, Off-limits, Verification) so Claude, Codex, and other agents stay in their lanes instead of stepping on each other. `npx wtcraft init`
 - [**Wealth Lens**](https://yourlens.vercel.app/): A web-based risk engine for investors that helps users understand Behavior x Market Context before making the next move. Inspired by my family, it supports beginner investors with clearer options literacy and risk awareness.
 - [**EDFViewerLite-MacOS**](https://github.com/zywkloo/EDFViewerLite-MacOS): An open-source, native macOS app built with SwiftUI to open and inspect EDF/BDF biomedical signals. It fills a clear market gap for a truly native Mac EDF inspector.
 
@@ -15,7 +15,7 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines
   <tr>
     <td align="center">
       <a href="https://github.com/zywkloo/wtcraft">
-        <img src="assets/wtcraft-icon.PNG" alt="wtcraft — multi-agent coding harness" height="200" />
+        <img src="assets/wtcraft-icon.PNG" alt="wtcraft — git-native agent governance core" height="200" />
       </a>
     </td>
     <td align="center">
@@ -32,7 +32,7 @@ I specialize in creating Mobile Apps (SwiftUI / React Native) and data pipelines
   <tr>
     <td align="center">
       <a href="https://github.com/zywkloo/wtcraft"><strong>wtcraft</strong></a><br/>
-      <sub>Multi-agent coding harness · CLI</sub>
+      <sub>Git-native agent governance core</sub>
     </td>
     <td align="center">
       <a href="https://github.com/zywkloo/EDFViewerLite-MacOS"><strong>EDFViewerLite-MacOS</strong></a><br/>
